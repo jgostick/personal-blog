@@ -49,7 +49,7 @@
 				</span>
 			</h1>
 			<h2 class="mb-4 text-gray-700 dark:text-gray-200">
-				This is an experiment with a serverless blogging platform based on [swyxkit](https://github.com/sw-yx/swyxkit) which uses Github issues to write posts and comments.
+				This is an experiment with a serverless blogging platform based on <a href="https://github.com/sw-yx/swyxkit">swyxkit</a> which uses Github issues to write posts and comments.
 			</h2>
 		</div>
 		<!-- <div
