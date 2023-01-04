@@ -16,13 +16,11 @@
 				Featured Posts
 			</h3>
 			<div class="flex flex-col gap-6 md:flex-row">
-				<FeatureCard title="Welcome to swyxkit 2022!" href="/welcome" stringData="Jan 2022" />
-				<FeatureCard
-					title="Moving to a GitHub CMS"
-					href="/moving-to-a-github-cms"
+				<FeatureCard 
+					title="First post on my new github-as-a-cms blog!"
+					href="/first-post-on-my-new-github-as-a-cms-blog"
 					stringData="Jan 2022"
 				/>
-				<FeatureCard title="HTML Ipsum demo" href="/moo" stringData="Jan 2022" />
 			</div>
 			<a
 				class="mt-8 flex h-6 rounded-lg leading-7 text-gray-600 transition-all dark:text-gray-400 dark:hover:text-gray-200"
