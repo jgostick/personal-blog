@@ -59,9 +59,7 @@
 		Blog
 	</h1>
 	<p class="mb-4 text-gray-600 dark:text-gray-400">
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum sunt reprehenderit alias rerum
-		dolor impedit. In total, I've written {items.length} articles on my blog. Use the search below to
-		filter by title.
+		In total, I've written {items.length} articles on my blog. Use the search below to filter by title.
 	</p>
 	<div class="relative w-full mb-4">
 		<input
@@ -114,12 +112,12 @@
 
 	<!-- you can hardcode yourmost popular posts or pinned post here if you wish -->
 	{#if !$search}
-		<h3 class="mt-8 mb-4 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
+<!-- 		<h3 class="mt-8 mb-4 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
 			Most Popular
 		</h3>
 		<IndexCard href="/welcome" title="Welcome to swyxkit!" stringData="123,456 views">
 			This is swyx's preferred starter for Svelte projects!
-		</IndexCard>
+		</IndexCard> -->
 
 		<h3 class="mt-8 mb-4 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
 			All Posts
