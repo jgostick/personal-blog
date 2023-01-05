@@ -26,7 +26,6 @@
 		<div class="flex flex-col space-y-4">
 			<a class="text-gray-500 transition hover:text-gray-300" href="/">Home</a>
 			<a class="text-gray-500 transition hover:text-gray-300" href="/about">About</a>
-			<a class="text-gray-500 transition hover:text-gray-300" href="/#newsletter">Newsletter</a>
 			<a class="text-gray-500 transition hover:text-gray-300" href="/rss.xml" rel="external">
 				RSS
 			</a>
@@ -47,14 +46,6 @@
 				href={REPO_URL}
 			>
 				GitHub
-			</a>
-			<a
-				class="text-gray-500 transition hover:text-gray-300"
-				target="_blank"
-				rel="noopener noreferrer"
-				href={MY_YOUTUBE}
-			>
-				YouTube
 			</a>
 		</div>
 	</div>
